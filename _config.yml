@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 show_downloads: true
-#github:
-  #zip_url: https://github.com/virgile-reignier/memoire/releases/download/excel/V.-Reignier-Tableau-detude-du-terrier-de-Devesset.1.xlsx
+github:
+  zip_url: https://github.com/virgile-reignier/memoire/releases/download/excel/V.-Reignier-Tableau-detude-du-terrier-de-Devesset.1.xlsx
