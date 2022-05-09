@@ -1,4 +1,4 @@
-# base de données mémoire de recherche
+# Tableau mémoire de recherche
 
 ## Virgile REIGNIER, *Une seigneurie montagnarde entre Vivarais et Velay. Monographie de la commanderie de Devesset au XIVème siècle*, dir. par Nicolas CARRIER, Lyon, Université Jean Moulin Lyon 3, 2020
 
